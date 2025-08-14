@@ -1,1 +1,5 @@
-{}
+{
+  "USD": {"current": 85.50, "previous": 85.20, "change": 0.35},
+  "EUR": {"current": 92.80, "previous": 92.50, "change": 0.32},
+  "BTC": {"current": 115500, "previous": 115000, "change": 0.43}
+}

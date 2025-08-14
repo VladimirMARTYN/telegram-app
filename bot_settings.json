@@ -1,1 +1,6 @@
-{}
+{
+  "daily_summary_time": "09:00",
+  "timezone": "Europe/Moscow",
+  "notifications_enabled": true,
+  "price_check_interval": 30
+}
